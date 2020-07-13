@@ -1,0 +1,70 @@
+[
+  {
+    "category": "Cold Drinks",
+    "imageUrl" : "https://www.pngitem.com/pimgs/m/80-800918_drink-icon-png-drink-icon-white-png-transparent.png",
+    "items": [
+      {
+        "name": "Cola",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQco_MEc6IDTwRWsIqOQlYLq1_XKKAVUdUpcvBS-DrWzxMrtfW0-Kt8WNXjPa0&usqp=CAc",
+        "id": 0
+      },
+      {
+        "name": "Limonade",
+        "url": "https://www.coca-cola-deutschland.de/content/dam/one/de/product-images/fa-or-033l-ew-pet.png",
+        "id": 1
+      },
+      {
+        "name": "Wasser",
+        "url": "https://cdn02.plentymarkets.com/q7p0kwea05gv/item/images/8198/full/37500-1.png",
+        "id": 2
+      },
+      {
+        "name": "Apfelsaft",
+        "url": "https://suedtirolgustos.de/1150-large_default/apfelsaft-200-ml.jpg",
+        "id": 3
+      }
+    ]
+  },
+  {
+    "category": "Warm Drinks",
+    "imageUrl": "https://www.pngitem.com/pimgs/m/263-2639856_hot-drink-icon-png-hot-drinks-icon-png.png",
+    "items": [
+      {
+        "name": "Tea",
+        "url": "https://xn--kleeblatt-teeglck-h3b.de/WebRoot/Store26/Shops/92474ad3-b3cd-4c4b-9cbf-ce01f897329d/MediaGallery/cilia_tee_schwarzer_tee.jpg",
+        "id": 4
+      },
+      {
+        "name": "Coffee",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/1200px-A_small_cup_of_coffee.JPG",
+        "id": 5
+      }
+    ]
+  },
+  {
+    "category": "Snacks",
+    "imageUrl": "https://png.pngitem.com/pimgs/s/132-1322115_nachos-mexican-snack-tortilla-chips-cheese-snack-food.png",
+    "items": [
+      {
+        "name": "Sandwich",
+        "url": "https://www.imago-images.de/bild/st/0097384650/w.jpg",
+        "id": 6
+      },
+      {
+        "name": "Salat",
+        "url": "https://comps.canstockphoto.com/plate-with-salad-on-bright-background-picture_csp63967275.jpg",
+        "id": 7
+      },
+      {
+        "name": "Brezel",
+        "url": "https://img.welt.de/img/vermischtes/mobile200723334/4012503557-ci102l-w1024/Kombo-2.jpg",
+        "id": 8
+      },
+      {
+        "name": "Apfel",
+        "url": "https://www.lebensbaum.com/files/styles/greige_image_476x476/public/images/greiges/apfel-suesserapfel1_0.jpg?itok=6AGJQzt4",
+        "id": 9
+      }
+    ]
+  }
+]

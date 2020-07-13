@@ -1,5 +1,3 @@
-import 'package:flutter/cupertino.dart';
-
 import 'item.dart';
 
 class Model {
